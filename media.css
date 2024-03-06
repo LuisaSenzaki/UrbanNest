@@ -36,7 +36,14 @@
   }
 
   .carrossel {
-    width: 400px;
+    width: 270px;
+  }
+
+  .carrossel-img{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
   }
 
   .casas-apt {
@@ -61,7 +68,7 @@
   }
 
   .reuniao {
-    width: 300px;
+    width: 270px;
     margin: auto;
     height: auto;
   }
