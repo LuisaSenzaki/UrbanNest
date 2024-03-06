@@ -39,11 +39,9 @@
     width: 270px;
   }
 
-  .carrossel-img{
+  .carrossel-img {
     align-items: center;
-    text-align: center;
-    justify-content: center;
-    
+    width: 890px;
   }
 
   .casas-apt {
