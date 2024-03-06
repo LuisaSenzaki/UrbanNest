@@ -1,0 +1,96 @@
+@media screen and (max-width: 768px) {
+  .cabeca {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+
+  #main {
+    height: 930px;
+  }
+
+  .title {
+    font-size: 40px;
+    margin-top: 180px;
+  }
+
+  .contact-us {
+    margin: auto;
+    margin-top: 30px;
+    padding: 0px 15px;
+  }
+
+  .hero {
+    flex-direction: column;
+  }
+
+  .img-about {
+    display: none;
+  }
+
+  .text-about {
+    display: flex;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .carrossel {
+    width: 400px;
+  }
+
+  .casas-apt {
+    flex-direction: column;
+    gap: 5px;
+    padding-right: 0;
+  }
+  .p-casas {
+    text-align: center;
+    font-size: 23px;
+  }
+  .p-info {
+    text-align: center;
+    margin: auto;
+    width: 300px;
+  }
+
+  .cozinha {
+    width: 270px;
+    height: auto;
+    margin: auto;
+  }
+
+  .reuniao {
+    width: 300px;
+    margin: auto;
+    height: auto;
+  }
+
+  .escritorio {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  hr {
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .escrita-escritorio {
+    padding-left: 0;
+    margin: auto;
+    gap: 5px;
+  }
+
+  .info-escritorio {
+    text-align: center;
+    font-size: 23px;
+  }
+
+  .escritorio-sobre {
+    width: 270px;
+    height: auto;
+    text-align: center;
+  }
+}
